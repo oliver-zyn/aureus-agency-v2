@@ -16,7 +16,7 @@ export default function WhatsAppButton({
         size,
         className,
       })}
-      href="https://wa.me/554691163405"
+      href="https://wa.me/554691357970"
       target="_blank"
       rel="noreferrer"
     >

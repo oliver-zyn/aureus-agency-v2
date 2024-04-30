@@ -20,7 +20,7 @@ export default function FooterSection() {
       <div className="flex items-center gap-5 mt-5">
         <IconLink
           icon={<WhatsappLogo size={24} />}
-          url="https://wa.me/554691163405"
+          url="https://wa.me/554691357970"
         />
         <IconLink
           icon={<InstagramLogo size={24} />}

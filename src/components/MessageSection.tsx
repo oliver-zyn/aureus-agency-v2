@@ -13,7 +13,7 @@ export default function MessageSection() {
       </h1>
       <ArrowButton
         text="Iniciar minha jornada"
-        url="https://wa.me/554691163405"
+        url="https://wa.me/554691357970"
         target="_blank"
         className="text-zinc-950 bg-white-aureus hover:bg-white-aureus/95"
       />

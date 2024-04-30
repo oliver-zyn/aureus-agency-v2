@@ -25,7 +25,7 @@ export default function AboutSection() {
         </p>
         <ArrowButton
           text="Iniciar minha jornada"
-          url="https://wa.me/554691163405"
+          url="https://wa.me/554691357970"
           target="_blank"
           className="bg-purple-aureus hover:bg-purple-aureus/85"
         />

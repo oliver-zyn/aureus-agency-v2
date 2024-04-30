@@ -1,5 +1,6 @@
 import {
   Funnel,
+  Handshake,
   InstagramLogo,
   Megaphone,
   NewspaperClipping,
@@ -119,6 +120,17 @@ export default function ServicesSection() {
               }
               title="Estratégias de marketing personalizadas"
               description="Transforme visitantes em clientes. Nossa equipe destaca sua presença digital com experiências focadas na conversão."
+            />
+            <ServiceItem
+              icon={
+                <Handshake
+                  size={32}
+                  weight="fill"
+                  className="text-yellow-aureus min-w-[2rem]"
+                />
+              }
+              title="Consultoria de marketing digital"
+              description="Impulsionamos sua marca digitalmente com estratégias personalizadas para potencializar sua presença online, otimizar resultados e garantir um crescimento sustentável. Confie em nós para transformar sua visão em realidade."
             />
           </div>
           <div className="rounded-xl overflow-hidden max-w-96 max-h-80 lg:max-h-none order-1 shadow-md">
