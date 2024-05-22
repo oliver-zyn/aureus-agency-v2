@@ -6,6 +6,7 @@ import {
   NewspaperClipping,
   NotePencil,
   PresentationChart,
+  TerminalWindow,
 } from 'phosphor-react'
 
 import Image from 'next/image'
@@ -83,6 +84,17 @@ export default function ServicesSection() {
               }
               title="Criação de funil de vendas"
               description="Transformamos visitantes em clientes com funis de vendas personalizados. Da atração à conversão, potencialize suas vendas conosco."
+            />
+            <ServiceItem
+              icon={
+                <TerminalWindow
+                  size={32}
+                  weight="fill"
+                  className="text-yellow-aureus min-w-[2rem]"
+                />
+              }
+              title="Desenvolvimento de software terceirizado"
+              description="Entregamos soluções de software sob medida para atender às necessidades específicas do seu negócio. Com uma equipe especializada, garantimos eficiência e inovação em cada projeto, impulsionando a transformação digital da sua empresa."
             />
           </div>
         </div>
