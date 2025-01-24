@@ -45,7 +45,7 @@ export default function Navbar() {
                 isScrolled ? 'text-purple-aureus' : 'text-white-aureus'
               }`}
             >
-              Aureus Agency
+              Aureus Marketing
             </span>
           </Link>
 

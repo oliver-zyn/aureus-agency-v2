@@ -19,7 +19,7 @@ export default function Home() {
             <span className="text-yellow-aureus">vendas</span>
           </h1>
           <p className="mt-5 max-w-4xl text-primary/90 sm:text-lg text-white-aureus">
-            A <strong>Aureus Agency</strong> está aqui para elevar sua marca,
+            A <strong>Aureus Marketing</strong> está aqui para elevar sua marca,
             alcançar novos patamares e conquistar o sucesso que você merece.
             Vamos voar juntos!
           </p>

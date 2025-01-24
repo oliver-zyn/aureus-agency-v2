@@ -8,7 +8,7 @@ export default function MessageSection() {
         Em nosso universo digital, somos seu{' '}
         <span className="text-yellow-aureus">foguete para o sucesso</span>.
         Impulsione sua marca com a{' '}
-        <span className="text-yellow-aureus">Aureus Agency</span> e alcance{' '}
+        <span className="text-yellow-aureus">Aureus Marketing</span> e alcance{' '}
         <span className="text-yellow-aureus">novas alturas</span>!
       </h1>
       <ArrowButton

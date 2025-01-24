@@ -1,14 +1,14 @@
 import ArrowButton from './ArrowButton'
 import Image from 'next/image'
 import MaxWidthWrapper from './MaxWidthWrapper'
-import logoImg from '../assets/logo.jpg'
+import logoImg from '../assets/logo.jpeg'
 
 export default function AboutSection() {
   return (
     <MaxWidthWrapper className="flex justify-between items-center flex-col text-center gap-10 py-60 lg:py-80 lg:flex-row lg:text-left">
       <div>
         <h1 className="max-w-4xl text-3xl font-normal lg:text-4xl">
-          Sobre a <span className="font-semibold">Aureus Agency</span>
+          Sobre a <span className="font-semibold">Aureus Marketing</span>
         </h1>
         <p className="mt-7 mb-3 max-w-xl text-primary/90 sm:text-lg">
           Somos uma empresa especializada em marketing digital,{' '}

@@ -36,7 +36,7 @@ export default function ContactSection() {
             <div className="flex items-center gap-5 text-white-aureus">
               <IconLink
                 icon={<InstagramLogo size={28} />}
-                url="https://instagram.com/aureus_agency"
+                url="https://instagram.com/aureus_marketing_"
               />
               <IconLink
                 icon={<FacebookLogo size={28} />}

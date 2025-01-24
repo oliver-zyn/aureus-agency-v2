@@ -12,7 +12,7 @@ export default function FooterSection() {
   return (
     <MaxWidthWrapper className="py-10 mt-60 lg:mt-80 flex flex-col justify-between gap-5 items-center text-center lg:text-left lg:flex-row md:flex-row md:text-left">
       <div>
-        <h2 className="font-semibold text-lg">AureusAgency.</h2>
+        <h2 className="font-semibold text-lg">AureusMarketing.</h2>
         <p className="text-sm pt-2">
           Copyright © 2024. Todos os direitos reservados
         </p>
@@ -24,7 +24,7 @@ export default function FooterSection() {
         />
         <IconLink
           icon={<InstagramLogo size={24} />}
-          url="https://instagram.com/aureus_agency"
+          url="https://instagram.com/aureus_marketing_"
         />
         <IconLink
           icon={<FacebookLogo size={24} />}

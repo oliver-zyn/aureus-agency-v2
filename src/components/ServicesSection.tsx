@@ -28,7 +28,7 @@ export default function ServicesSection() {
         <p className="mt-10 max-w-4xl sm:text-lg md:max-w-2xl text-white-aureus/90">
           Com a{' '}
           <span className="font-semibold text-yellow-aureus">
-            Aureus Agency
+            Aureus Marketing
           </span>
           , por meio da metodologia Sigma,{' '}
           <span className="font-semibold text-yellow-aureus">
